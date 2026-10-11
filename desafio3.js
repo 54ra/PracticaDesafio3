@@ -71,6 +71,7 @@ for (let jugada of historialPartida) {
 
     // Primer comentario de Sara (autora): Si no es comentario, procesamos e imprimimos la jugada en la consola
     // Comentario de Julia: Muestra en la consola la jugada que ha pasado el filtro.
+    // Respuesta de Sara (autora): Exacto, solo llegan a este punto los movimientos válidos de las piezas.
     console.log(`Procesando jugada válida: ${jugada}`);
 
     //Primer comentario de Sara (autora): Si contiene el carácter '#', abortamos el bucle por completo con 'break'
